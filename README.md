@@ -1,1 +1,1 @@
-# my
+# in this ripo we will discuss about python
