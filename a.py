@@ -1,2 +1,1 @@
-this is a python file
-also this is a django file
+print 1 + 1
